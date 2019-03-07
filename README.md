@@ -1,2 +1,2 @@
-# campyo.ga
-www.campyo.ga
+# kampyo.ga
+www.kampyo.ga
